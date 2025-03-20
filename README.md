@@ -7,3 +7,6 @@ The main aim of this project is to practice using Excel , analyse and visualise 
   
 ![image](https://github.com/user-attachments/assets/680d8402-befe-47f7-a057-375d85059c6a)    
 
+Outcome:
+
+A dashboard was created on Excel showcasing an overview of the Vrinda Store's annual report.
