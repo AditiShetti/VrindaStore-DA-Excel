@@ -22,14 +22,14 @@ Women contribute a significantly higher share of sales.
   
 **Order Status:**
 This pie chart categorizes orders based on their status:  
-92% Delivered  
-3% Cancelled  
+92% Delivered    
+3% Cancelled     
 3% Returned  
 2% Refunded  
 The majority of orders are successfully delivered, with minimal cancellations and refunds.  
   
 **Top 5 States by Sales:** 
-Displays the top-performing states based on total sales.  
+Displays the top-performing states based on total sales.    
 Maharashtra (2.99M) recorded the highest sales, followed by Karnataka (2.64M) and Uttar Pradesh (2.10M).  
 
 **Orders by Age vs Gender:** 
