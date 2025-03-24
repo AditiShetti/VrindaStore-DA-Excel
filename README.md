@@ -12,7 +12,7 @@ Outcome:
 A dashboard was created on Excel showcasing an overview of the Vrinda Store's annual report.
 
 
-#Key Insights and Visualisations:  
+# Key Insights and Visualisations:  
 Orders vs Sales (Top Left Chart)  
 This column and line chart compares the total sales amount (blue bars) with the number of orders (orange line) across each month.  
 Sales peaked around March-April, followed by a decline towards the end of the year.  
@@ -42,6 +42,6 @@ Amazon (35%) and Myntra (23%) are the leading sales channels, followed by Flipka
 Other platforms like Ajio, Meesho, and Nalli contribute smaller shares.  
   
 
-#Tools Used:  
+# Tools Used:  
 Excel  
 
