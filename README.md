@@ -43,7 +43,7 @@ Other platforms like Ajio, Meesho, and Nalli contribute smaller shares.
 
 6. **Sales:Men vs Women:**
 The pie chart shows the distribution of Sales by gender .
-Women make up the majority of sales with  % while men cover only  % of the total sales.  
+Women make up the majority of sales with  64% while men cover only 36 % of the total sales.  
 
 # Tools Used:  
 Excel  
